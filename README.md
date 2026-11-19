@@ -60,6 +60,6 @@ All implemented API endpoints were tested using Postman.
 
 ## Author
 
-Krish Singh Randhawa
+Arman kumar
 
 
