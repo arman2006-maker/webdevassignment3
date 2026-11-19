@@ -55,8 +55,8 @@ All implemented API endpoints were tested using Postman.
 
 ## API Screenshots
 
-### 1. Get All Products
-![Get All Products](screenshots/get-all-products.png)
+<img width="715" height="692" alt="Screenshot 2026-11-16 212001" src="https://github.com/user-attachments/assets/2d34838a-785d-42b4-98bf-58aff47e3239" />
+
 
 ## Author
 
